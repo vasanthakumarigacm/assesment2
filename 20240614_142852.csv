@@ -1,0 +1,4 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+assesment2,Chrome 125.0.0.0,,,14-06-2024 14:28:59,14-06-2024 14:30:46,1m - 46.132s,FAILED
+,,,,,,,
+Test Cases/New Test Case,Chrome 125.0.0.0,,,14-06-2024 14:30:26,14-06-2024 14:30:44,17.679s,FAILED
