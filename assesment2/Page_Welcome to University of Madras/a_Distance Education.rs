@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Distance Education</name>
+   <tag></tag>
+   <elementGuidId>dc6a08c9-e0f2-4ecb-9cd2-3f554c9c14e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Distance Education&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='menuzord-right']/ul/li[10]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Distance Education&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1552db36-2a8c-4ab1-b820-b680e0da5904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.ideunom.ac.in/</value>
+      <webElementGuid>d884ddd7-6a27-4013-b3a3-04bc3ec55f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c7fe8e89-3dcc-4999-9191-f6159cdad635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Distance Education</value>
+      <webElementGuid>c8813379-4c75-469c-8f24-d65fa1117e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distance Education</value>
+      <webElementGuid>ad590257-db24-4804-9ea9-f3459c09144a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuzord-right&quot;)/ul[@class=&quot;menuzord-menu menuzord-right menuzord-indented scrollable&quot;]/li[10]/a[1]</value>
+      <webElementGuid>b4ca566b-2fbc-4e80-99fe-159e91cc3a12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='menuzord-right']/ul/li[10]/a</value>
+      <webElementGuid>366921c5-eac4-458c-95ce-d3c23cbe71d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Distance Education')]</value>
+      <webElementGuid>5f7f91f2-fa6b-44d9-96c4-0824def0cd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mphil Exam (Colleges)'])[1]/following::a[1]</value>
+      <webElementGuid>16887d07-fc49-4aed-851c-b586a0cbbe75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous Year Question Paper'])[1]/following::a[2]</value>
+      <webElementGuid>eff3e80a-a07f-4b85-bdc3-95040f792807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From the Desk of the Vice Chancellor'])[1]/preceding::a[1]</value>
+      <webElementGuid>1b6cf9d1-0cad-450d-966d-7be2906d8ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About University'])[1]/preceding::a[4]</value>
+      <webElementGuid>5afa0704-232f-4ac8-b909-3057d08dec84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Distance Education']/parent::*</value>
+      <webElementGuid>45032e17-bf42-46ac-8f65-f48262ce6cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://www.ideunom.ac.in/']</value>
+      <webElementGuid>4d7c09a9-e363-4992-9b5b-649d8334b972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a</value>
+      <webElementGuid>24de550a-2f36-46ef-891b-06450e1451d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://www.ideunom.ac.in/' and @title = 'Distance Education' and (text() = 'Distance Education' or . = 'Distance Education')]</value>
+      <webElementGuid>dfca7816-5255-4aa4-a3e4-cec2a7ca1ffd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

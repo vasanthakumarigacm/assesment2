@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_IDE - DEC. 2023 - PG - MAMSCMCOMMCAMSC(IT_1ce4df</name>
+   <tag></tag>
+   <elementGuidId>bbc01ba7-f383-4d96-ac8f-c8999a2b2925</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5:nth-of-type(3) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myModal']/div/div/div[2]/h5[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;IDE - DEC. 2023 - PG - MA/MSC/MCOM/MCA/MSC(IT) Exam - HALL TICKET&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ef84e4dd-6cf5-48bc-8e0c-cde5f4e80376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://exam.unom.ac.in/hallticket/login_pg.asp</value>
+      <webElementGuid>61aeb3c4-74fb-411c-ac7f-ac55963c7019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_block</value>
+      <webElementGuid>79d80f35-a1b1-4344-9e4a-851030efddbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDE - DEC. 2023 - PG - MA/MSC/MCOM/MCA/MSC(IT) Exam - HALL TICKET </value>
+      <webElementGuid>0fbbc752-9acd-45b7-9026-260324071de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/h5[3]/a[1]</value>
+      <webElementGuid>556fa1b6-5d98-40ed-bc03-3f69f3d5e0a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myModal']/div/div/div[2]/h5[3]/a</value>
+      <webElementGuid>ee79901e-62ea-46c2-91ff-d4f9c2cd88c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'IDE - DEC. 2023 - PG - MA/MSC/MCOM/MCA/MSC(IT) Exam - HALL TICKET')]</value>
+      <webElementGuid>7eb3d4d4-dd38-4cb7-a7ba-4f6f0db00289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE - DEC. 2023 - UG/BLIS/MLIS/DIPLOMA/CERT Exam - HALL TICKET'])[1]/following::a[1]</value>
+      <webElementGuid>842ed1ef-93b1-4726-b1e5-6362a0b99fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE - IMPORTANT NEWS'])[1]/following::a[3]</value>
+      <webElementGuid>666a9206-8ab8-4039-9d10-89b5f7e7cfd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE - DEC. 2023 - MBA Exam - HALL TICKET'])[1]/preceding::a[1]</value>
+      <webElementGuid>1133bdac-036c-4790-acd0-77f496c5b77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE - DEC. 2023 - EXAM CENTRE - NOTIFICATION'])[1]/preceding::a[2]</value>
+      <webElementGuid>8bb4f3ca-1cb5-44f2-834b-d94b26128853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IDE - DEC. 2023 - PG - MA/MSC/MCOM/MCA/MSC(IT) Exam - HALL TICKET']/parent::*</value>
+      <webElementGuid>15f406d0-0392-4552-b7db-c22a48a6a884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://exam.unom.ac.in/hallticket/login_pg.asp')]</value>
+      <webElementGuid>bf6883e9-7073-437c-8119-822cd8db6216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5[3]/a</value>
+      <webElementGuid>124291be-75db-43f4-bff5-601cce56b041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://exam.unom.ac.in/hallticket/login_pg.asp' and (text() = 'IDE - DEC. 2023 - PG - MA/MSC/MCOM/MCA/MSC(IT) Exam - HALL TICKET ' or . = 'IDE - DEC. 2023 - PG - MA/MSC/MCOM/MCA/MSC(IT) Exam - HALL TICKET ')]</value>
+      <webElementGuid>e4ce9240-edf9-4127-8682-1a76dcc95a29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

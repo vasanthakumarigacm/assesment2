@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_IDE - DEC. 2023 - EXAM CENTRE - NOTIFICATION</name>
+   <tag></tag>
+   <elementGuidId>ebb2e041-be2f-4bad-a958-f9d8d34cc930</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5:nth-of-type(5) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myModal']/div/div/div[2]/h5[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;IDE - DEC. 2023 - EXAM CENTRE - NOTIFICATION&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6dbfd692-56e4-4674-bf69-5d4695842679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://exam.unom.ac.in/IDEDATA/CENTERNOTE.ASP</value>
+      <webElementGuid>3a032deb-8821-47a1-96f4-d8ecb6b691aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_block</value>
+      <webElementGuid>b0714bbc-4757-40b5-b0f6-1ae452d33d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDE - DEC. 2023 - EXAM CENTRE - NOTIFICATION </value>
+      <webElementGuid>08eaceaf-191c-468f-8b8e-a5ac11bf9f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/h5[5]/a[1]</value>
+      <webElementGuid>3e93f0c7-9b86-49f7-a049-d406a94c7b06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myModal']/div/div/div[2]/h5[5]/a</value>
+      <webElementGuid>be1b23a0-a89f-48f3-bb8c-873870c75703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'IDE - DEC. 2023 - EXAM CENTRE - NOTIFICATION')]</value>
+      <webElementGuid>d46244ef-1520-40d8-87a8-e2e2db1704d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE - DEC. 2023 - MBA Exam - HALL TICKET'])[1]/following::a[1]</value>
+      <webElementGuid>36a1a659-9775-4dbe-9bc0-30325326b90b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE - DEC. 2023 - PG - MA/MSC/MCOM/MCA/MSC(IT) Exam - HALL TICKET'])[1]/following::a[2]</value>
+      <webElementGuid>9111744d-2a52-482f-acef-0962c1b46479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE - DEC. 2023 - EXAM TIME TABLE'])[1]/preceding::a[1]</value>
+      <webElementGuid>9b78d4e0-218b-4b4d-a723-89db75687e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE JUNE 2023 EXAM REVALUATION RESULTS'])[1]/preceding::a[4]</value>
+      <webElementGuid>f3373d45-2259-4bbe-8464-9b7166349032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IDE - DEC. 2023 - EXAM CENTRE - NOTIFICATION']/parent::*</value>
+      <webElementGuid>bcce32d9-63d0-465c-b485-b3a477273b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://exam.unom.ac.in/IDEDATA/CENTERNOTE.ASP')]</value>
+      <webElementGuid>79aa2a88-199c-461c-8882-ef168e31c0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5[5]/a</value>
+      <webElementGuid>afa85b05-2983-4eaa-86c2-d7b5beba8028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://exam.unom.ac.in/IDEDATA/CENTERNOTE.ASP' and (text() = 'IDE - DEC. 2023 - EXAM CENTRE - NOTIFICATION ' or . = 'IDE - DEC. 2023 - EXAM CENTRE - NOTIFICATION ')]</value>
+      <webElementGuid>03b9355f-3351-4669-b606-542c08307bbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Results</name>
+   <tag></tag>
+   <elementGuidId>aae90478-2023-4032-b7cf-0b37a3479776</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-colored.btn-theme-colored2.text-white.btn-lg.pl-90.pr-90.mt-15</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='about']/div/div/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Results&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bc5c0d48-c360-462c-949a-65c9ffa1e1b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://egovernance.unom.ac.in/idedata/ideresult.asp</value>
+      <webElementGuid>3dc4e6b0-2936-4912-b00b-953a2c0999b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-colored btn-theme-colored2 text-white btn-lg pl-90 pr-90 mt-15</value>
+      <webElementGuid>a6d10e68-c958-421e-add4-2747d6fb18dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>4f1bd895-f2fc-4ac1-933d-a0e765a2b5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      
+Results
+          </value>
+      <webElementGuid>9d9fbf67-44f4-4ce3-ab31-c2411f3cc577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;about&quot;)/div[@class=&quot;container pb-20&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[1]/a[@class=&quot;btn btn-colored btn-theme-colored2 text-white btn-lg pl-90 pr-90 mt-15&quot;]</value>
+      <webElementGuid>e07250e6-a1ea-40cc-88d6-081aaa635d74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='about']/div/div/div/div[2]/div/a</value>
+      <webElementGuid>f752913e-24d4-4c01-b69e-9e55f061711d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Results')])[2]</value>
+      <webElementGuid>f519d740-cb99-4430-a5a6-e8f84545275f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Institute of Distance Education'])[2]/following::a[1]</value>
+      <webElementGuid>10803c8c-b0c9-4bea-b7a1-1511809c6b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Admission'])[5]/preceding::a[1]</value>
+      <webElementGuid>57a22ae9-fc53-4ca9-b271-4016d1f79a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://egovernance.unom.ac.in/idedata/ideresult.asp']</value>
+      <webElementGuid>57721818-4838-4d35-9723-744d429936f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>f9285308-e5ec-4c26-af58-42ba3252ccc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://egovernance.unom.ac.in/idedata/ideresult.asp' and (text() = '
+      
+Results
+          ' or . = '
+      
+Results
+          ')]</value>
+      <webElementGuid>e3af0141-12cc-4e86-be2e-7f9918d918b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

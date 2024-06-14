@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CHENNAI CITY CENTRES (MBA)</name>
+   <tag></tag>
+   <elementGuidId>e11b5433-964a-48dc-9a67-8c315e38da22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='print_content']/table[2]/tbody/tr[2]/td/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;CHENNAI CITY CENTRES (MBA)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f7db6cb-d23e-4ff6-89aa-300024105d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>.\IDETT\CITYProf.PDF</value>
+      <webElementGuid>313b637b-fd16-4497-bba0-f12ee997f1a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_BLANK</value>
+      <webElementGuid>cb967093-447f-45c6-89c7-9f107d80df7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CHENNAI CITY CENTRES (MBA) </value>
+      <webElementGuid>acb6d700-55d1-4e7e-b0c9-4e55e91e0dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;print_content&quot;)/table[@class=&quot;htdborder&quot;]/tbody[1]/tr[2]/td[@class=&quot;MandatoryText&quot;]/a[3]</value>
+      <webElementGuid>32da9e6c-338e-4e87-8025-e1c650954072</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='print_content']/table[2]/tbody/tr[2]/td/a[3]</value>
+      <webElementGuid>b5308340-a15e-47d4-8673-dd6dc456c9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CHENNAI CITY CENTRES (MBA)')]</value>
+      <webElementGuid>583326d8-b02b-43ff-b334-38d543f1db80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHENNAI CITY CENTRES (PG (M.A., M.Sc.,M.Com., MCA, M.Sc.(IT))'])[1]/following::a[1]</value>
+      <webElementGuid>e34160a5-c374-46c2-94a6-03616553e50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MOFUSSIL CENTRES'])[1]/preceding::a[1]</value>
+      <webElementGuid>5d532601-9272-4683-b358-c60d117deeb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CHENNAI CITY CENTRES (MBA)']/parent::*</value>
+      <webElementGuid>883dd3c2-3f90-4dfc-9870-113671bd23bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '.\IDETT\CITYProf.PDF')]</value>
+      <webElementGuid>721ce517-fdbe-4360-9517-c4e61befea85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>81105909-8cd2-4eea-8453-527375a313b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '.\IDETT\CITYProf.PDF' and (text() = 'CHENNAI CITY CENTRES (MBA) ' or . = 'CHENNAI CITY CENTRES (MBA) ')]</value>
+      <webElementGuid>5baa9706-8203-4d45-a9b6-0497de8321ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

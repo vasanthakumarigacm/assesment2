@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_C24 BATCH</name>
+   <tag></tag>
+   <elementGuidId>79d46130-68db-4a2f-9da0-ad497715c61e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.pcpclass.mousedefault</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='menuzord']/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;C24 BATCH&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6d23d584-0cf5-4d7d-924f-b6c7321fbc75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>64ffba0e-80a1-4e53-8644-06b08907ea19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>c24</value>
+      <webElementGuid>59bc8ae8-d052-4ab8-9c5b-5cc57aa1b3ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pcpclass mousedefault</value>
+      <webElementGuid>2d04799d-be8b-454c-b7ca-cf88d0d24a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C24 BATCH</value>
+      <webElementGuid>c1729746-00d0-4d51-ad64-05d6e03260b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuzord&quot;)/div[@class=&quot;pull-right sm-pull-none mb-sm-15 dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[1]/a[@class=&quot;pcpclass mousedefault&quot;]</value>
+      <webElementGuid>52d50e8a-6432-4552-9c21-7b598cae4669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='menuzord']/div/ul/li/a</value>
+      <webElementGuid>843f7937-90ab-46e6-98bf-2d6b16498457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'C24 BATCH')]</value>
+      <webElementGuid>687140f2-fb80-4af2-9267-b9b79b175528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PCP Classes'])[1]/following::a[1]</value>
+      <webElementGuid>833ede16-cb94-41e8-9071-9b397181d8a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicate Course Completion'])[1]/following::a[2]</value>
+      <webElementGuid>4e0aef6f-1426-47d2-bbee-825c4dfafb87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A23 BATCH'])[1]/preceding::a[1]</value>
+      <webElementGuid>7104630e-61d1-4458-bf8b-87e92623cf4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C23 BATCH'])[1]/preceding::a[2]</value>
+      <webElementGuid>de654e83-65f5-47bb-afe7-7370d08a775c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='C24 BATCH']/parent::*</value>
+      <webElementGuid>20fe3547-f3a1-4976-ab6d-53b19022215a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li/a</value>
+      <webElementGuid>095f3788-dcda-416b-a6d8-aabe26632a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'C24 BATCH' or . = 'C24 BATCH')]</value>
+      <webElementGuid>967bfc90-0527-455e-b96b-eccf2c6a8825</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

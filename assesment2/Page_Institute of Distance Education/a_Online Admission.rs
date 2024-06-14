@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Online Admission</name>
+   <tag></tag>
+   <elementGuidId>5bd3791c-10c8-441d-9687-7c034fd12be8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='about']/div/div/div/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Online Admission&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4e43994a-639b-442a-bbcd-1432ebb91bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://online.ideunom.ac.in</value>
+      <webElementGuid>3c3809a8-976b-4414-96b8-a7a30f0971dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-colored btn-theme-colored2 text-white btn-lg pl-90 pr-90 mt-15</value>
+      <webElementGuid>a865ef89-7230-4cb5-b3b3-912332532055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Online Admission</value>
+      <webElementGuid>dc00476b-23c0-44c1-a86e-64c34b19f092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;about&quot;)/div[@class=&quot;container pb-20&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[1]/a[@class=&quot;btn btn-colored btn-theme-colored2 text-white btn-lg pl-90 pr-90 mt-15&quot;]</value>
+      <webElementGuid>539d0735-1fe9-47e1-b96e-d5c8ac5140ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='about']/div/div/div/div[2]/div/a[2]</value>
+      <webElementGuid>21bb5c71-44db-4470-b8b5-cf0497528442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Online Admission')])[5]</value>
+      <webElementGuid>2f5e06a9-0a92-4214-a86f-f52a92bcdec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Institute of Distance Education'])[2]/following::a[2]</value>
+      <webElementGuid>b8bedb1a-1577-4dbd-a27d-cac67afbe6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://online.ideunom.ac.in']</value>
+      <webElementGuid>2d3932a0-d0bd-4486-b1d7-74f1e806d6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>1fd27d85-8ea8-4a77-a597-624cff5c87da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://online.ideunom.ac.in' and (text() = 'Online Admission' or . = 'Online Admission')]</value>
+      <webElementGuid>ba70a27b-4d18-4d11-8c31-183ca6481c6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
